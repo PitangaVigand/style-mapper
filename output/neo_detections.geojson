@@ -1,0 +1,634 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0564587,
+          -22.8971619
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0002_right_lat_-22.8971619_lon_-47.0564587.jpg",
+        "confidence": 0.7570523023605347,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0002_right_lat_-22.8971619_lon_-47.0564587.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0002_right_lat_-22.8971619_lon_-47.0564587.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0564066,
+          -22.8972456
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0003_left_lat_-22.8972456_lon_-47.0564066.jpg",
+        "confidence": 0.6281651854515076,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0003_left_lat_-22.8972456_lon_-47.0564066.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0003_left_lat_-22.8972456_lon_-47.0564066.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0564066,
+          -22.8972456
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0003_right_lat_-22.8972456_lon_-47.0564066.jpg",
+        "confidence": 0.9937426447868347,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0003_right_lat_-22.8972456_lon_-47.0564066.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0003_right_lat_-22.8972456_lon_-47.0564066.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0563555,
+          -22.8973278
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0004_right_lat_-22.8973278_lon_-47.0563555.jpg",
+        "confidence": 0.9157801866531372,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0004_right_lat_-22.8973278_lon_-47.0563555.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0004_right_lat_-22.8973278_lon_-47.0563555.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0562577,
+          -22.8974912
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0006_left_lat_-22.8974912_lon_-47.0562577.jpg",
+        "confidence": 0.8654196858406067,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0006_left_lat_-22.8974912_lon_-47.0562577.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0006_left_lat_-22.8974912_lon_-47.0562577.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0560658,
+          -22.8978114
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0010_left_lat_-22.8978114_lon_-47.0560658.jpg",
+        "confidence": 0.5040537118911743,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0010_left_lat_-22.8978114_lon_-47.0560658.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0010_left_lat_-22.8978114_lon_-47.0560658.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0559678,
+          -22.8979716
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0012_left_lat_-22.8979716_lon_-47.0559678.jpg",
+        "confidence": 0.6051467061042786,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0012_left_lat_-22.8979716_lon_-47.0559678.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0012_left_lat_-22.8979716_lon_-47.0559678.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0558654,
+          -22.8981382
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0014_left_lat_-22.8981382_lon_-47.0558654.jpg",
+        "confidence": 0.9122828841209412,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0014_left_lat_-22.8981382_lon_-47.0558654.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0014_left_lat_-22.8981382_lon_-47.0558654.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0558186,
+          -22.8982139
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0015_left_lat_-22.8982139_lon_-47.0558186.jpg",
+        "confidence": 0.8523014187812805,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0015_left_lat_-22.8982139_lon_-47.0558186.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0015_left_lat_-22.8982139_lon_-47.0558186.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0556732,
+          -22.8984482
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0018_left_lat_-22.8984482_lon_-47.0556732.jpg",
+        "confidence": 0.9098538756370544,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0018_left_lat_-22.8984482_lon_-47.0556732.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0018_left_lat_-22.8984482_lon_-47.0556732.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0553782,
+          -22.8989173
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0024_left_lat_-22.8989173_lon_-47.0553782.jpg",
+        "confidence": 0.7464302182197571,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0024_left_lat_-22.8989173_lon_-47.0553782.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0024_left_lat_-22.8989173_lon_-47.0553782.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0553222,
+          -22.8990098
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0025_left_lat_-22.8990098_lon_-47.0553222.jpg",
+        "confidence": 0.719573974609375,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0025_left_lat_-22.8990098_lon_-47.0553222.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0025_left_lat_-22.8990098_lon_-47.0553222.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0553222,
+          -22.8990098
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0026_left_lat_-22.8990098_lon_-47.0553222.jpg",
+        "confidence": 0.719573974609375,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0026_left_lat_-22.8990098_lon_-47.0553222.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0026_left_lat_-22.8990098_lon_-47.0553222.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0552726,
+          -22.8990919
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0027_left_lat_-22.8990919_lon_-47.0552726.jpg",
+        "confidence": 0.6766716837882996,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0027_left_lat_-22.8990919_lon_-47.0552726.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0027_left_lat_-22.8990919_lon_-47.0552726.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0552072,
+          -22.8992
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0028_left_lat_-22.8992000_lon_-47.0552072.jpg",
+        "confidence": 0.6658827662467957,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0028_left_lat_-22.8992000_lon_-47.0552072.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0028_left_lat_-22.8992000_lon_-47.0552072.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0551156,
+          -22.8993514
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0030_left_lat_-22.8993514_lon_-47.0551156.jpg",
+        "confidence": 0.8940500617027283,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0030_left_lat_-22.8993514_lon_-47.0551156.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0030_left_lat_-22.8993514_lon_-47.0551156.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0550636,
+          -22.8994377
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0031_left_lat_-22.8994377_lon_-47.0550636.jpg",
+        "confidence": 0.5709570050239563,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0031_left_lat_-22.8994377_lon_-47.0550636.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0031_left_lat_-22.8994377_lon_-47.0550636.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0550636,
+          -22.8994377
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0031_right_lat_-22.8994377_lon_-47.0550636.jpg",
+        "confidence": 0.9216252565383911,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0031_right_lat_-22.8994377_lon_-47.0550636.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0031_right_lat_-22.8994377_lon_-47.0550636.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0550162,
+          -22.8995161
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0032_right_lat_-22.8995161_lon_-47.0550162.jpg",
+        "confidence": 0.5163344144821167,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0032_right_lat_-22.8995161_lon_-47.0550162.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0032_right_lat_-22.8995161_lon_-47.0550162.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0549193,
+          -22.8996784
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0034_left_lat_-22.8996784_lon_-47.0549193.jpg",
+        "confidence": 0.7850605845451355,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0034_left_lat_-22.8996784_lon_-47.0549193.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0034_left_lat_-22.8996784_lon_-47.0549193.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05487,
+          -22.899763
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0035_left_lat_-22.8997630_lon_-47.0548700.jpg",
+        "confidence": 0.9952647686004639,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0035_left_lat_-22.8997630_lon_-47.0548700.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0035_left_lat_-22.8997630_lon_-47.0548700.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0548209,
+          -22.8998471
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0036_left_lat_-22.8998471_lon_-47.0548209.jpg",
+        "confidence": 0.9706478118896484,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0036_left_lat_-22.8998471_lon_-47.0548209.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0036_left_lat_-22.8998471_lon_-47.0548209.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0547694,
+          -22.8999351
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0037_left_lat_-22.8999351_lon_-47.0547694.jpg",
+        "confidence": 0.5623306632041931,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0037_left_lat_-22.8999351_lon_-47.0547694.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0037_left_lat_-22.8999351_lon_-47.0547694.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0547694,
+          -22.8999351
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0037_right_lat_-22.8999351_lon_-47.0547694.jpg",
+        "confidence": 0.9849311113357544,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0037_right_lat_-22.8999351_lon_-47.0547694.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0037_right_lat_-22.8999351_lon_-47.0547694.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0546824,
+          -22.9000868
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0039_right_lat_-22.9000868_lon_-47.0546824.jpg",
+        "confidence": 0.996849000453949,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0039_right_lat_-22.9000868_lon_-47.0546824.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0039_right_lat_-22.9000868_lon_-47.0546824.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0546385,
+          -22.9001672
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0040_right_lat_-22.9001672_lon_-47.0546385.jpg",
+        "confidence": 0.6951557993888855,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0040_right_lat_-22.9001672_lon_-47.0546385.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0040_right_lat_-22.9001672_lon_-47.0546385.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0545446,
+          -22.9003386
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0042_left_lat_-22.9003386_lon_-47.0545446.jpg",
+        "confidence": 0.8099263310432434,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0042_left_lat_-22.9003386_lon_-47.0545446.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0042_left_lat_-22.9003386_lon_-47.0545446.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0545446,
+          -22.9003386
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0042_right_lat_-22.9003386_lon_-47.0545446.jpg",
+        "confidence": 0.9736267328262329,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0042_right_lat_-22.9003386_lon_-47.0545446.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0042_right_lat_-22.9003386_lon_-47.0545446.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0545012,
+          -22.9004178
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0043_right_lat_-22.9004178_lon_-47.0545012.jpg",
+        "confidence": 0.9955043196678162,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0043_right_lat_-22.9004178_lon_-47.0545012.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0043_right_lat_-22.9004178_lon_-47.0545012.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0544565,
+          -22.9004996
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0044_left_lat_-22.9004996_lon_-47.0544565.jpg",
+        "confidence": 0.768474817276001,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0044_left_lat_-22.9004996_lon_-47.0544565.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0044_left_lat_-22.9004996_lon_-47.0544565.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0544565,
+          -22.9004996
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0044_right_lat_-22.9004996_lon_-47.0544565.jpg",
+        "confidence": 0.970655620098114,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0044_right_lat_-22.9004996_lon_-47.0544565.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0044_right_lat_-22.9004996_lon_-47.0544565.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0544133,
+          -22.9005785
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0045_left_lat_-22.9005785_lon_-47.0544133.jpg",
+        "confidence": 0.6763808131217957,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0045_left_lat_-22.9005785_lon_-47.0544133.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0045_left_lat_-22.9005785_lon_-47.0544133.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0544133,
+          -22.9005785
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0045_right_lat_-22.9005785_lon_-47.0544133.jpg",
+        "confidence": 0.6531139016151428,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0045_right_lat_-22.9005785_lon_-47.0544133.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0045_right_lat_-22.9005785_lon_-47.0544133.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0543692,
+          -22.9006589
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0046_left_lat_-22.9006589_lon_-47.0543692.jpg",
+        "confidence": 0.9524668455123901,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0046_left_lat_-22.9006589_lon_-47.0543692.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0046_left_lat_-22.9006589_lon_-47.0543692.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0543692,
+          -22.9006589
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0046_right_lat_-22.9006589_lon_-47.0543692.jpg",
+        "confidence": 0.9826404452323914,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0046_right_lat_-22.9006589_lon_-47.0543692.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0046_right_lat_-22.9006589_lon_-47.0543692.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0543232,
+          -22.9007431
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0047_right_lat_-22.9007431_lon_-47.0543232.jpg",
+        "confidence": 0.9874140620231628,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0047_right_lat_-22.9007431_lon_-47.0543232.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0047_right_lat_-22.9007431_lon_-47.0543232.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0540349,
+          -22.9012884
+        ]
+      },
+      "properties": {
+        "image_name": "streetview_0054_right_lat_-22.9012884_lon_-47.0540349.jpg",
+        "confidence": 0.7791326642036438,
+        "label": "neo",
+        "image_path": "gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0054_right_lat_-22.9012884_lon_-47.0540349.jpg",
+        "absolute_image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\gen_street_view_images_by_street\\streetview_images\\avenida_julio_de_mesquita\\streetview_0054_right_lat_-22.9012884_lon_-47.0540349.jpg"
+      }
+    }
+  ]
+}

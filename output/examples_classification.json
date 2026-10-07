@@ -1,0 +1,47 @@
+[
+  {
+    "image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\examples\\building (0).jpeg",
+    "predicted_label": "no-neo",
+    "confidence_score": 0.9999216794967651
+  },
+  {
+    "image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\examples\\building (1).jpg",
+    "predicted_label": "no-neo",
+    "confidence_score": 0.6546788811683655
+  },
+  {
+    "image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\examples\\building (2).jpeg",
+    "predicted_label": "neo",
+    "confidence_score": 0.9954953193664551
+  },
+  {
+    "image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\examples\\building (3).jpeg",
+    "predicted_label": "neo",
+    "confidence_score": 0.9619132876396179
+  },
+  {
+    "image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\examples\\building (4).jpeg",
+    "predicted_label": "no-neo",
+    "confidence_score": 0.9993434548377991
+  },
+  {
+    "image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\examples\\building (5).jpg",
+    "predicted_label": "no-neo",
+    "confidence_score": 0.5824034810066223
+  },
+  {
+    "image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\examples\\building (6).jpg",
+    "predicted_label": "no-neo",
+    "confidence_score": 0.7563073039054871
+  },
+  {
+    "image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\examples\\building (7).jpg",
+    "predicted_label": "no-neo",
+    "confidence_score": 0.9895023107528687
+  },
+  {
+    "image_path": "C:\\Users\\pitan\\Documents\\repos\\Alfred\\Projects\\style mapper\\examples\\building (8).jpg",
+    "predicted_label": "no-neo",
+    "confidence_score": 0.9979649782180786
+  }
+]

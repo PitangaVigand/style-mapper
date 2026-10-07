@@ -1,0 +1,10 @@
+image_path,predicted_label,confidence_score
+C:\Users\pitan\Documents\repos\Alfred\Projects\style mapper\examples\building (0).jpeg,no-neo,0.9999216794967651
+C:\Users\pitan\Documents\repos\Alfred\Projects\style mapper\examples\building (1).jpg,no-neo,0.6546788811683655
+C:\Users\pitan\Documents\repos\Alfred\Projects\style mapper\examples\building (2).jpeg,neo,0.9954953193664551
+C:\Users\pitan\Documents\repos\Alfred\Projects\style mapper\examples\building (3).jpeg,neo,0.9619132876396179
+C:\Users\pitan\Documents\repos\Alfred\Projects\style mapper\examples\building (4).jpeg,no-neo,0.9993434548377991
+C:\Users\pitan\Documents\repos\Alfred\Projects\style mapper\examples\building (5).jpg,no-neo,0.5824034810066223
+C:\Users\pitan\Documents\repos\Alfred\Projects\style mapper\examples\building (6).jpg,no-neo,0.7563073039054871
+C:\Users\pitan\Documents\repos\Alfred\Projects\style mapper\examples\building (7).jpg,no-neo,0.9895023107528687
+C:\Users\pitan\Documents\repos\Alfred\Projects\style mapper\examples\building (8).jpg,no-neo,0.9979649782180786
