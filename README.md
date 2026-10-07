@@ -127,3 +127,5 @@ Sun, M., Zhang, F., Duarte, F., & Ratti, C. (2022). *Understanding architecture 
 Wei, X., Yu, K., Wang, Y., & Zhang, H. (2018). Referencia citada no resumo do projeto como base para reconhecimento visual e classificacao de padroes arquitetonicos.
 
 Xu, H., Sun, H., Wang, L., Yu, X., & Li, T. (2023). *Urban architectural style recognition and dataset construction method under deep learning of street view images: A case study of Wuhan*. *ISPRS International Journal of Geo-Information, 12*(7), 264. https://doi.org/10.3390/ijgi12070264
+#   s t y l e - m a p p e r  
+ 
